@@ -1,3 +1,7 @@
+//My name is ashoka chakravarthy
+// I am working from home
+// I am doing this to get knowledge my self
+
 #include<stdio.h>
 int main()
 {
